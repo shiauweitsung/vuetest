@@ -5,7 +5,7 @@
         <div class="col-md-3">
           <h6 class="my-4">
             <router-link class="text-vrpink" to="/products">
-              <i class="fas fa-arrow-left"></i> 返回
+              <i class="fas fa-arrow-left"></i> 返回2
             </router-link>
           </h6>
         </div>
